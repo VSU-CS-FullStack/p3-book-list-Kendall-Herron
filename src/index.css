@@ -1,5 +1,17 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.row {
+	margin: 20px;
+}
+
+.class-item-mine:hover {
+	border-color: blue;
+}
+
+.selected-item-mine {
+	background-color: lightgray;
 }
